@@ -1,0 +1,41 @@
+ body{
+    margin: 100px;
+    background-color: aquamarine;
+    font-size: medium;
+    font-display: var(10);
+    color: blueviolet;
+ }
+ h1 {
+background-color: rgb(255, 221, 196);
+color: rgb(240, 240, 255);
+text-align: center;
+font-size: xx-large;
+flex-direction: row-reverse;
+border-radius: inherit;
+border: 4px solid beige;
+
+ }
+ h1{
+    width: 200px;
+    padding: 30px;
+    margin: 40px;
+
+ }
+ h2{
+    background-color: rgb(161, 127, 255);
+color: #000000;
+text-align: left;
+font-size: xx-large;
+border: 8px solid black;
+border-radius: 3%;
+ }
+ p{
+    border: 5px solid red;
+    width: 400px;
+    padding: 20pt;
+    margin: 40px;
+
+ }
+ p{
+    width: 12cap
+ }
